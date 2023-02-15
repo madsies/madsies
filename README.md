@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiii i'm maddie!
 
 ## Languages I Use
 - C/C++
@@ -6,3 +6,4 @@
 - Python
 
 Computer Science @ Univeristy Of Nottingham
+
