@@ -5,5 +5,5 @@
 - Java
 - Python
 
-Computer Science @ Univeristy Of Nottingham
+Computer Science BSc 1st Year
 
