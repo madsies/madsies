@@ -1,6 +1,9 @@
 ### Hiii i'm maddie!
 
-[Current Project](https://github.com/madsies/PUGProgram)
+## Current project: PUG Program for Overwatch
+[PUGProgram](https://github.com/madsies/PUGProgram)
+
+A program to manage PUG custom games in overwatch.
 
 ## Languages I Use
 - C/C++
