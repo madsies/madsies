@@ -1,7 +1,6 @@
 ### Hiii i'm maddie!
 
-## Current project: PUG Program for Overwatch
-[PUGProgram](https://github.com/madsies/PUGProgram)
+## Current project: N/A
 
 A program to manage PUG custom games in overwatch.
 
@@ -10,5 +9,5 @@ A program to manage PUG custom games in overwatch.
 - Java
 - Python
 
-Computer Science BSc 1st Year
+Computer Science BSc 2nd Year
 
