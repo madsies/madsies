@@ -1,8 +1,8 @@
 ### Hiii i'm maddie!
 
-## Current project: N/A
+## Current project: Discord bot for my personal server
 
-A program to manage PUG custom games in overwatch.
+Learning JS and/or TS, getting back into programming for fun and not uni
 
 ## Languages I Use
 - C/C++
