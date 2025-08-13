@@ -2,12 +2,16 @@
 
 ## Current project: Discord bot for my personal server
 
-Learning JS and/or TS, getting back into programming for fun and not uni
+Passionate about software engineering and Game Development
 
 ## Languages I Use
-- C/C++
+- C/C#/C++
 - Java
 - Python
 
-Computer Science BSc 2nd Year
+## Technologies
+- Unity
+- Android Studio
+
+Computer Science BSc (Hons) Graduate
 
