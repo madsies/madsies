@@ -2,6 +2,8 @@
 
 ## Current project: Discord bot for my personal server
 
+[Discord Bot Repo](https://github.com/madsies/General-Discord-Bot)
+
 Passionate about software engineering and Game Development
 
 ## Languages I Use
