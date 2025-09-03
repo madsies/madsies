@@ -13,9 +13,12 @@ Passionate about software engineering and Game Development
 - Java
 - Python
 
-## Technologies
+## Technologies & Skills
 - Unity
-- Android Studio
+- Android Studio [University]
+- .NET Blazor & RESTful APIs
+- Basic Linux Server Maintainance (Ubuntu Server on Oracle Cloud)
+- OpenGL C++ Experience [University]
 
 Computer Science BSc (Hons) Graduate
 
