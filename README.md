@@ -25,6 +25,7 @@ Currently working on portfolio projects and learning technologies.
 ## Fun Libraries used
 - Discord.py - For creating interactive bots for the chat app "Discord" [Repo](https://github.com/madsies/General-Discord-Bot)
 - Spigot - Java library used for creating server side plugins for the game "Minecraft" [Repo (Multiple Projects)](https://github.com/madsies/MC-Plugin-Archive)
+- Google Sheets API - Java Library used for writing and reading from google sheets pages, used for Admin Panel for University Esports Tournament "University Summer Splash"
 
 Computer Science BSc (Hons) Graduate
 
