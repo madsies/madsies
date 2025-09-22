@@ -1,6 +1,6 @@
 ### Hiii i'm maddie!
 
-## Current projects: Discord bot, Web App and Ubuntu Server Management
+## Current projects: USS Dashboard, Web App and Ubuntu Server Management
 
 [Discord Bot Repo](https://github.com/madsies/General-Discord-Bot)  [Implemented]
 
