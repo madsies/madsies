@@ -12,7 +12,8 @@ Passionate about software engineering and Game Development.
 Currently working on portfolio projects and learning technologies.
 
 ## Languages I Use
-- C/C#/C++
+- C/C++
+- C#
 - Java
 - Python
 
@@ -22,12 +23,13 @@ Currently working on portfolio projects and learning technologies.
 - .NET Blazor & RESTful APIs
 - Basic Linux Server Maintainance (Ubuntu Server on Oracle Cloud)
 - OpenGL C++ Experience [University]
+- Basic Web languages, HTML, CSS, JS
 - Maven and Gradle experience in Java
 
 ## Fun Libraries used
 - Discord.py - For creating interactive bots for the chat app "Discord" [Repo](https://github.com/madsies/General-Discord-Bot)
 - Spigot - Java library used for creating server side plugins for the game "Minecraft" [Repo (Multiple Projects)](https://github.com/madsies/MC-Plugin-Archive)
-- Google Sheets API - Java Library used for writing and reading from google sheets pages, used for Admin Panel for University Esports Tournament "University Summer Splash" [Repo[(https://github.com/madsies/USS-Admin-Panel)
+- Google Sheets API - Java/Python Library used for writing and reading from google sheets pages, used for Admin Panel for University Esports Tournament "University Summer Splash" [Repo](https://github.com/madsies/USS-Admin-Panel)
 
 Computer Science BSc (Hons) Graduate
 
