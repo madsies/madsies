@@ -2,9 +2,11 @@
 
 ## Current projects: Discord bot, Web App and Ubuntu Server Management
 
-[Discord Bot Repo](https://github.com/madsies/General-Discord-Bot)  [Basic Implementation]
+[Discord Bot Repo](https://github.com/madsies/General-Discord-Bot)  [Implemented]
 
 [Blazor Web App Repo](https://github.com/madsies/BlazorApp)   [In Progress]
+
+[Admin Dashboard for University esports Tournaments](https://github.com/madsies/USS-Admin-Panel) [Working]
 
 Passionate about software engineering and Game Development.
 Currently working on portfolio projects and learning technologies.
@@ -25,7 +27,7 @@ Currently working on portfolio projects and learning technologies.
 ## Fun Libraries used
 - Discord.py - For creating interactive bots for the chat app "Discord" [Repo](https://github.com/madsies/General-Discord-Bot)
 - Spigot - Java library used for creating server side plugins for the game "Minecraft" [Repo (Multiple Projects)](https://github.com/madsies/MC-Plugin-Archive)
-- Google Sheets API - Java Library used for writing and reading from google sheets pages, used for Admin Panel for University Esports Tournament "University Summer Splash"
+- Google Sheets API - Java Library used for writing and reading from google sheets pages, used for Admin Panel for University Esports Tournament "University Summer Splash" [Repo[(https://github.com/madsies/USS-Admin-Panel)
 
 Computer Science BSc (Hons) Graduate
 
