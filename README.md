@@ -1,6 +1,6 @@
 ### Hiii i'm maddie!
 
-## Current projects: USS Dashboard, Web App and Ubuntu Server Management
+## Current projects: USS Website, USS Dashboard, and Ubuntu Server Management
 
 [Discord Bot Repo](https://github.com/madsies/General-Discord-Bot)  [Implemented]
 
@@ -9,7 +9,7 @@
 [Admin Dashboard for University esports Tournaments](https://github.com/madsies/USS-Admin-Panel) [Working]
 
 Passionate about software engineering and Game Development.
-Currently working on portfolio projects and learning technologies.
+Currently working on University Student Showdown Backend.
 
 ## Languages I Use
 - C/C++
@@ -21,6 +21,7 @@ Currently working on portfolio projects and learning technologies.
 - Unity
 - Android Studio [University]
 - .NET Blazor & RESTful APIs
+- ASP.NET Backend, PostgreSQL + MySQL Database & Docker
 - Basic Linux Server Maintainance (Ubuntu Server on Oracle Cloud)
 - OpenGL C++ Experience [University]
 - Basic Web languages, HTML, CSS, JS
