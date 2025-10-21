@@ -12,9 +12,9 @@ Passionate about software engineering and Game Development.
 Currently working on University Student Showdown Backend.
 
 ## Technologies & Skills
-- Unity
+- Unity, Basic Godot
 - Android Studio [University]
-- .NET Blazor & RESTful APIs
+- Frontend: .NET Blazor & Basic React.ts vite
 - ASP.NET Backend, PostgreSQL + MySQL Database & Docker
 - Basic Linux Server Maintainance (Ubuntu Server on Oracle Cloud)
 - OpenGL C++ Experience [University]
