@@ -11,12 +11,6 @@
 Passionate about software engineering and Game Development.
 Currently working on University Student Showdown Backend.
 
-## Languages I Use
-- C/C++
-- C#
-- Java
-- Python
-
 ## Technologies & Skills
 - Unity
 - Android Studio [University]
