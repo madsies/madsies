@@ -14,7 +14,7 @@ Currently working on University Student Showdown Backend.
 ## Technologies & Skills
 - Unity, Basic Godot
 - Android Studio [University]
-- Frontend: .NET Blazor & Basic React.ts vite
+- Frontend: React.ts Vite
 - ASP.NET Backend, PostgreSQL + MySQL Database & Docker
 - Basic Linux Server Maintainance (Ubuntu Server on Oracle Cloud)
 - OpenGL C++ Experience [University]
