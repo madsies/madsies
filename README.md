@@ -1,6 +1,6 @@
 ### Hiii i'm maddie!
 
-## Current projects: USS Website, USS Dashboard, and Ubuntu Server Management
+## Current duties: USS Website, Draft Tournament Dashboard, and Ubuntu Server Management
 
 [Discord Bot Repo](https://github.com/madsies/General-Discord-Bot)  [Implemented]
 
@@ -14,7 +14,7 @@ Currently working on University Student Showdown Backend.
 ## Technologies & Skills
 - Unity, Basic Godot
 - Android Studio [University]
-- Frontend: React.ts Vite
+- Frontend: React.ts Vite with MUI
 - ASP.NET Backend, PostgreSQL + MySQL Database & Docker
 - Basic Linux Server Maintainance (Ubuntu Server on Oracle Cloud)
 - OpenGL C++ Experience [University]
